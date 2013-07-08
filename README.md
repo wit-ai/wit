@@ -1,4 +1,4 @@
-wit
+Wit
 ===
 
-All things Wit
+Documentation: https://wit.ai/docs
