@@ -9,6 +9,7 @@ https://wit.ai/docs
 - [docs] Messenger integration tutorial and sample app
 - [feature] Test bot in Console directly
 - [feature] Access raw message in the `merge` function
+- [feature] Migrate pre-Bot Engine apps to the new Stories paradigm
 - [fix] Bring `Roles` back (see [legacy guide](https://wit.ai/docs/complete-guide#--when-roles-link))
 - [feature] New languages: Romanian, Czeck, Turkish
 
