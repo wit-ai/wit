@@ -11,7 +11,8 @@ https://wit.ai/docs
 - [feature] Fold and search stories
 - [feature] Access raw message in the `merge` function
 - [feature] Migrate pre-Bot Engine apps to the new Stories paradigm
-- [fix] Bring `Roles` back (see [legacy guide](https://wit.ai/docs/complete-guide#--when-roles-link))
+- [fix] Bring [Composite entities](https://wit.ai/blog/2015/05/05/composite-entity) back
+- [fix] Bring [Roles](https://wit.ai/docs/complete-guide#--when-roles-link) back
 - [feature] New languages: Romanian, Czeck, Turkish
 
 ## Longer-term
