@@ -13,7 +13,7 @@ https://wit.ai/docs
 - [ ] More compact view of stories
 - [ ] New languages
 - [ ] Redesigned Logs view
-- [ ] Firefox support
+- [ ] Firefox/Safari support
 - [ ] Conversations Inbox (turn logs into stories)
 - [ ] Structured input (handle Messenger's CTA -- buttons clicks -- for instance)
 - [ ] Conversation-aware entity extraction
