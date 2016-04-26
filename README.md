@@ -8,11 +8,13 @@ https://wit.ai/docs
 - [x] Bring [Roles](https://wit.ai/docs/recipes#differentiate-several-entities-according-to-their-role-in-the-message) back
 - [x] Delete action/response in Actions tab
 - [x] Firefox/Safari support
+- [x] More compact view of stories
 - [ ] Automatic intent embedding, with two consequences
   - It will simplify intent handling
   - It will enable bots to detect if the message is totally out of scope
-- [ ] More compact view of stories
 - [ ] New languages
+- [ ] Support for multiple choice messages
+- [ ] Reusing stories in other stories to avoid repeating yourself
 - [ ] Redesigned Logs view
 - [ ] Conversations Inbox (turn logs into stories)
 - [ ] Structured input (handle Messenger's CTA -- buttons clicks -- for instance)
