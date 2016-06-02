@@ -18,5 +18,6 @@ https://wit.ai/docs
 - [ ] Reusing stories in other stories to avoid repeating yourself
 - [ ] Structured input (handle Messenger's CTA -- buttons clicks -- for instance)
 - [ ] Redesigned Logs view
+- [ ] Variations for one bot answer
 - [ ] Conversations Inbox (turn logs into stories)
 - [ ] Conversation-aware entity extraction
