@@ -10,14 +10,16 @@ https://wit.ai/docs
 - [x] Firefox/Safari support
 - [x] More compact view of stories
 - [x] New languages
-- [ ] Model versioning (save the state of your bot for production use)
-- [ ] Automatic intent embedding, with two consequences
-  - It will simplify intent handling
-  - It will enable bots to detect if the message is totally out of scope
-- [ ] Support for multiple choice messages
-- [ ] Reusing stories in other stories to avoid repeating yourself
+- [x] Import & Export Wit apps to JSON format
+- [x] Support for quick replies
+- [x] Support for Branches (i.e. if/else) in Stories, to easily describe complex flows
+- [x] Support for Jumps (i.e. goto) in Stories, to easily describe complex flows
+- [x] Name your stories to easily manage them
 - [ ] Structured input (handle Messenger's CTA -- buttons clicks -- for instance)
 - [ ] Redesigned Logs view
 - [ ] Variations for one bot answer
-- [ ] Conversations Inbox (turn logs into stories)
 - [ ] Conversation-aware entity extraction
+- [ ] Model versioning (dynamically pick version at runtime)
+- [ ] Automatic intent embedding, with two consequences
+  - It will simplify intent handling
+  - It will enable bots to detect if the message is totally out of scope
