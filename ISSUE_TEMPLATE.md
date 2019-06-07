@@ -6,4 +6,4 @@
 
 **What is the expected behavior?**
 
-**What is the App ID where you are experiencing this issue (if applicable)?**
+**If applicable, what is the App ID where you are experiencing this issue? If you do not provide this, we cannot help.**
