@@ -6,6 +6,7 @@ Context: https://medium.com/wit-ai/launching-built-in-nlp-for-messenger-and-suns
 ## How to migrate your app
 1. Create a new app, it will by default be in the new app format
 2. An `intent` trait entity will be created for you. Each of your legacy app intents will map to an intent value in the `intent` entity. Reference: https://wit.ai/docs/recipes#categorize-the-user-intent
+
 Legacy:
 ![](https://i.imgur.com/2rS01RR.png)
 New:
